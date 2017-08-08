@@ -30,7 +30,7 @@
 <p align="center"><i>Positions</i></p>
 
 ## §5. Volunteer
-1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become futher involved.
+1. The position of Volunteer is intended for individuals who have already been involved in the project and wish to become further involved.
 1. A Volunteer may—
 	1. reside in the space and use items located within the space,
 	1. participate in Operational Activity and change the Collective Agreements, 
